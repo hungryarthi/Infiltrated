@@ -1,0 +1,52 @@
+body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+footer {
+	margin: 50px 0;
+}
+
+hr {
+	border-top: 2px solid #136F0B;
+}
+
+body {
+	background-color: black;
+}
+
+h3 {
+	color: #319431;
+}
+
+.text-featured {
+	font-size: 11px;
+	color: #77BB72;
+}
+
+h3 {
+	margin-top: 5px;
+	margin-left: 15px;
+}
+
+p {
+	font-size: 11px;
+}
+
+.navbar-inverse {
+	background-color: black;
+	border-color: #136F0B;
+}
+
+.navbar-fixed-top {
+	border-width: 0 0 2px;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	font-color: white;
+	padding-bottom: 30px;
+}
