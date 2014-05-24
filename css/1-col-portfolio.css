@@ -14,13 +14,31 @@ body {
 	background-color: black;
 }
 
-h3 {
+h3, h4, h5 {
 	color: #319431;
 }
+
+h5 {
+	margin-left: 15px;
+}
+
 
 .text-featured {
 	font-size: 11px;
 	color: #77BB72;
+}
+
+.text-audio {
+	font-size: 10px;
+	color: #77BB72;
+}
+
+.text-map {
+	font-size: 11px;
+}
+
+.text-article {
+	color: #3c763d;
 }
 
 h3 {
@@ -29,7 +47,7 @@ h3 {
 }
 
 p {
-	font-size: 11px;
+	font-size: 14px;
 }
 
 .navbar-inverse {
@@ -48,5 +66,10 @@ p {
 .navbar-brand {
 	font-size: 30px;
 	font-color: white;
-	padding-bottom: 30px;
 }
+
+div .video {
+	display: block;
+	padding-top: 10px;
+}
+
