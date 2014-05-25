@@ -1,5 +1,5 @@
 body {
-	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+	margin-top: 60px; /* 50px is the height of the navbar - change this if the navbarn height changes */
 }
 
 footer {
@@ -8,23 +8,43 @@ footer {
 
 hr {
 	border-top: 2px solid #136F0B;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 
 body {
 	background-color: black;
 }
 
-h3, h4, h5 {
+h2 {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	color: #77BB72;
+}
+
+h3, h5 {
 	color: #319431;
+}
+
+h4 {
+	color: #77BB72;
 }
 
 h5 {
 	margin-left: 15px;
 }
 
+h6 {
+	margin-top: -5px;
+}
+
 
 .text-featured {
 	font-size: 11px;
+	color: #77BB72;
+}
+
+a {
 	color: #77BB72;
 }
 
@@ -39,6 +59,11 @@ h5 {
 
 .text-article {
 	color: #3c763d;
+	padding-right: 80px;
+}
+
+.audio-gallery {
+	padding-top: 50px;
 }
 
 h3 {
@@ -55,12 +80,17 @@ p {
 	border-color: #136F0B;
 }
 
+.row.story:hover {
+	opacity: 0.6;
+}
+
 .navbar-fixed-top {
 	border-width: 0 0 2px;
 }
 
 .navbar-nav {
 	float: right;
+	font-size: 20px;
 }
 
 .navbar-brand {
@@ -70,6 +100,14 @@ p {
 
 div .video {
 	display: block;
-	padding-top: 10px;
+	padding-top: 40px;
+}
+
+.featured {
+	padding-top: 30px;
+}
+
+.navbar {
+	min-height: 60px;
 }
 
