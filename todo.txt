@@ -1,11 +1,22 @@
 Home Page:
-1. format content width container
-2. create nav bar
-3. divide content into two columns
-4. divide left column into different stories
-5. place map image on right column
+1. [done]format content width container
+2. [done]create nav bar
+3. [done]divide content into two columns
+4. [done]divide left column into different stories
+5. [done]place map image on right column
 
 Articles:
-6. main youtube video on left
-7. story underneath video
-8. audio gallery on the right
+6. [done]main youtube video on left
+7. [done]story underneath video
+8. [done]audio gallery on the right
+
+
+NEXT STEPS:
+- about
+- contact
+- submit
+
+
+Official Website:
+- buy domain
+- upload onto domain
