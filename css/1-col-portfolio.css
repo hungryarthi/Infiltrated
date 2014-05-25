@@ -97,9 +97,19 @@ p {
 	font-size: 20px;
 }
 
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-brand:hover{
+	color: #999;
+}
+
+
 .navbar-brand {
 	font-size: 30px;
 	font-color: white;
+	color: white;
 }
 
 div .video {
