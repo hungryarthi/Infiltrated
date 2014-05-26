@@ -12,11 +12,14 @@ Articles:
 
 
 NEXT STEPS:
-- about
-- contact
-- submit
+- about [done]
+- contact [done]
+- submit [done]
+- donate [done]
 
 
 Official Website:
 - buy domain
 - upload onto domain
+
+- switch "submit" to "Add Your Story"
